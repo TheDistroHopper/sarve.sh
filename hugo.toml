@@ -5,6 +5,9 @@ theme = 'risotto'
 author = 'Sarvesh Patil'
 copyright = 'The content for this site is [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en)'
 
+[params.theme]
+palette = 'pop-dark'
+
 # Sidebar: about/bio
 [params.about]
 title = 'Sarvesh Patil'
