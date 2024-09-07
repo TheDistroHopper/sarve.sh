@@ -1,0 +1,74 @@
+baseURL = 'https://sarve.sh/'
+languageCode = 'en-us'
+title = 'TheDistroHopper'
+theme = 'risotto'
+author = 'Sarvesh Patil'
+copyright = 'The content for this site is [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en)'
+
+# Sidebar: about/bio
+[params.about]
+title = 'Sarvesh Patil'
+description = 'sarvesh@sarve.sh'
+# logo = 'TDH'
+# logo_image = 'https://avatars.githubusercontent.com/u/58876962'
+
+[[params.socialLinks]]
+title = "Discord"
+url = "https://discord.com/users/705447546679590913"
+icon = "fab fa-discord"
+
+[[params.socialLinks]]
+title = "GitHub"
+url = "https://github.com/TheDistroHopper"
+icon = "fab fa-github"
+
+[[params.socialLinks]]
+title = "YouTube"
+url = "https://youtube.com/@TheDistroHopper"
+icon = "fab fa-youtube"
+
+[[params.socialLinks]]
+title = "Twitter"
+url = "https://twitter.com/TheDistroHopper"
+icon = "fab fa-twitter"
+
+[[params.socialLinks]]
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/thedistrohopper/"
+icon = "fab fa-linkedin"
+
+enableRobotsTXT = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    url = "/posts"
+    weight = 10
+
+#   [[menu.main]]
+#     identifier = "rss"
+#     name = "rss"
+#     url = "/posts/index.xml"
+#     weight = 30
+
+  [[menu.main]]
+    identifier = "gallery"
+    name = "gallery"
+    url = "/gallery"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "tags"
+    url = "/tags"
+    weight = 50
+
+  [[menu.main]]
+    identifier = "misc"
+    name = "misc"
+    url = "/misc"
+    weight = 60
+
+
