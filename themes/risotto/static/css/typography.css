@@ -1,6 +1,6 @@
 /* Fonts */
 :root {
-    --font-monospace: "Fira Mono", monospace;
+    --font-monospace: "Mononoki", monospace;
 }
 
 body {
@@ -64,14 +64,20 @@ p {
     margin: 0 0 1.5rem 0;
 }
 
+p.copyright {
+    font-size: 0.8rem;
+}
+
 /* Links */
 
 a:link, a:visited {
     color: var(--link);
+    text-decoration: none;
 }
 
 a:hover, a:active, a.active {
     color: var(--hover);
+    text-decoration: #a1b56c wavy underline;
 }
 
 /* Lists */
