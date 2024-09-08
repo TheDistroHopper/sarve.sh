@@ -9,7 +9,7 @@ Distro hopping is a habit of computer users who chase the perfect setup of a dis
 _A distribution is an operating system built from the Linux kernel and GNU utilities._ 
 Even after finding the ultimate distribution, the user doesn't stop. 
 They keep distro hopping and repeat the same loop over and over again without realizing the waste of time. 
-Such users are called __distro hoppers__.
+Such users are called __*distro hoppers*__.
 
 ![distributions](https://sarvesh.prose.sh/distributions.png/350x)
 

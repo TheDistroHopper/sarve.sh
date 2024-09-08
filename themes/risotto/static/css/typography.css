@@ -1,6 +1,39 @@
 /* Fonts */
+
+/* Font for Regular text */
+@font-face {
+  font-family: 'Operator';
+  src: url('./fonts/OperatorMono-Book.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Font for Bold text */
+@font-face {
+  font-family: 'Operator';
+  src: url('./fonts/OperatorMono-Medium.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Font for Italic text */
+@font-face {
+  font-family: 'Operator';
+  src: url('./fonts/OperatorMono-BookItalic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Font for Bold Italic text */
+@font-face {
+  font-family: 'Operator';
+  src: url('./fonts/OperatorMono-MediumItalic.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+}
+
 :root {
-    --font-monospace: "Fira Mono", monospace;
+    --font-monospace: "Operator", monospace;
 }
 
 body {
@@ -64,14 +97,20 @@ p {
     margin: 0 0 1.5rem 0;
 }
 
+p.copyright {
+    font-size: 0.8rem;
+}
+
 /* Links */
 
 a:link, a:visited {
     color: var(--link);
+    text-decoration: none;
 }
 
 a:hover, a:active, a.active {
     color: var(--hover);
+    text-decoration: #a1b56c wavy underline;
 }
 
 /* Lists */

@@ -12,8 +12,8 @@ I constantly look to improve my thought process and cut the unwanted noise from 
 
 ![stoicism-scene-1](https://sarvesh.prose.sh/stoicism-scene-1.jpg/300x)
 
-Lately, I have stumbled upon a philosophy that I think is a practical way of living life i.e. __Stoicism__.
-_Stoicism is an ancient Greek philosophy that taught a particular way of living._ People who follow Stoicism are called __Stoics__.
+Lately, I have stumbled upon a philosophy that I think is a practical way of living life i.e. __*Stoicism*__.
+_Stoicism is an ancient Greek philosophy that taught a particular way of living._ People who follow Stoicism are called __*Stoics*__.
 
 I feel, that becoming stoic can benefit SWEs greatly in their work.
 That is what this blog post is about - Stoic Principles for SWEs to follow and corresponding applications relating to work situations.
