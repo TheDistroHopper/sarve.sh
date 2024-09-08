@@ -1,0 +1,119 @@
+// https://www.rockyourcode.com/til-how-to-create-full-text-rss-feed-for-hugo/<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sarvesh Patil on TheDistroHopper</title><link>https://thedistrohopper.github.io/sarve.sh/</link><description>Recent content in Sarvesh Patil on TheDistroHopper</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>The content for this site is [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en)</copyright><lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedistrohopper.github.io/sarve.sh/index.xml" rel="self" type="application/rss+xml"/><item><title>Stoic Principles for Software Engineers</title><link>https://thedistrohopper.github.io/sarve.sh/posts/stoic-principles-for-software-engineers/</link><pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate><guid>https://thedistrohopper.github.io/sarve.sh/posts/stoic-principles-for-software-engineers/</guid><description>&lt;p>I am a Software Engineer (SWE) by profession. The work of a SWE involves designing software, writing code, and solving problems.
+Software Engineering or any Engineering for that matter, tests the mental strength of an Engineer.
+This mental strength is the true power. Making clear decisions based on the clarity of information available is the real skill of a SWE.
+I constantly look to improve my thought process and cut the unwanted noise from my life.&lt;/p>
+&lt;p>&lt;img src="https://sarvesh.prose.sh/stoicism-scene-1.jpg/300x" alt="stoicism-scene-1">&lt;/p>
+&lt;p>Lately, I have stumbled upon a philosophy that I think is a practical way of living life i.e. &lt;strong>Stoicism&lt;/strong>.
+&lt;em>Stoicism is an ancient Greek philosophy that taught a particular way of living.&lt;/em> People who follow Stoicism are called &lt;strong>Stoics&lt;/strong>.&lt;/p>
+&lt;p>I feel, that becoming stoic can benefit SWEs greatly in their work.
+That is what this blog post is about - Stoic Principles for SWEs to follow and corresponding applications relating to work situations.&lt;/p>
+&lt;p>&lt;img src="https://sarvesh.prose.sh/stoicism-scene-2.jpg/300x" alt="stoicism-scene-2">&lt;/p>
+&lt;h4 id="focus-on-what-you-can-control">&lt;strong>Focus on What You Can Control&lt;/strong>&lt;/h4>
+&lt;ul>
+&lt;li>You’re assigned a task outside your comfort zone. Instead of worrying about your lack of experience, focus on learning and asking questions to get the job done.&lt;/li>
+&lt;li>Your code isn’t working as expected. Concentrate on debugging systematically, one step at a time, rather than stressing over the entire problem.&lt;/li>
+&lt;/ul>
+&lt;h4 id="cultivate-professional-virtue">&lt;strong>Cultivate Professional Virtue&lt;/strong>&lt;/h4>
+&lt;ul>
+&lt;li>Write tests and document your code to ensure it&amp;rsquo;s understandable and maintainable for others.&lt;/li>
+&lt;li>Be honest about what you don’t know and communicate promptly.&lt;/li>
+&lt;/ul>
+&lt;h4 id="develop-resilience">&lt;strong>Develop Resilience&lt;/strong>&lt;/h4>
+&lt;ul>
+&lt;li>When your code fails in testing, approach it calmly. Use the opportunity to strengthen your understanding of the system.&lt;/li>
+&lt;li>You didn’t meet an expected timeline. Reflect on what you can do better next time and ask for advice on improving your workflow.&lt;/li>
+&lt;/ul>
+&lt;h4 id="practice-mindfulness">&lt;strong>Practice Mindfulness&lt;/strong>&lt;/h4>
+&lt;ul>
+&lt;li>Start your day by setting clear, achievable goals and tackle them one by one.&lt;/li>
+&lt;li>During meetings, listen actively and fully engage with the discussion, ensuring that your contributions are thoughtful and constructive.&lt;/li>
+&lt;li>Reflect on your day at the end of each workday, noting what you achieved and where you can improve, to start the next day with clarity.&lt;/li>
+&lt;/ul>
+&lt;h4 id="build-strong-relationships">&lt;strong>Build Strong Relationships&lt;/strong>&lt;/h4>
+&lt;ul>
+&lt;li>Participate actively in team discussions, offering your ideas while being open to learning from others.&lt;/li>
+&lt;li>Take the time to mentor juniors, providing guidance and support that helps them grow into strong contributors.&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>There is a lot to learn about Stoicism and how to apply it to your life.
+I encourage you to explore it further. You might discover The One Thing you’ve been looking for.&lt;/p>
+&lt;/blockquote></description></item><item><title>Distro Hopping, A Rabbit Hole</title><link>https://thedistrohopper.github.io/sarve.sh/posts/distro-hopping/</link><pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate><guid>https://thedistrohopper.github.io/sarve.sh/posts/distro-hopping/</guid><description>&lt;p>Distro hopping is a habit of computer users who chase the perfect setup of a distribution.
+&lt;em>A distribution is an operating system built from the Linux kernel and GNU utilities.&lt;/em>
+Even after finding the ultimate distribution, the user doesn&amp;rsquo;t stop.
+They keep distro hopping and repeat the same loop over and over again without realizing the waste of time.
+Such users are called &lt;strong>distro hoppers&lt;/strong>.&lt;/p>
+&lt;p>&lt;img src="https://sarvesh.prose.sh/distributions.png/350x" alt="distributions">&lt;/p>
+&lt;p>I was a distro hopper until I started working professionally in 2022.&lt;/p>
+&lt;p>If I rank well-known distributions based on the number of times I&amp;rsquo;ve installed them, the list would be as follows:&lt;/p>
+&lt;p>Arch Linux &lt;img src="https://sarvesh.prose.sh/arch.png/20x" alt="arch"> &amp;gt; Ubuntu &lt;img src="https://sarvesh.prose.sh/ubuntu.png/20x" alt="ubuntu"> &amp;gt; Fedora &lt;img src="https://sarvesh.prose.sh/fedora.png/20x" alt="fedora"> &amp;gt; Debian &lt;img src="https://sarvesh.prose.sh/debian.png/20x" alt="debian">&lt;/p>
+&lt;p>A smol observation here. As we go from left to right in this list, distributions change from rolling release to fixed release cycle. I have come to a conclusion that changing distros will not solve the problem but fixing the distribution at hand.&lt;/p>
+&lt;p>The behaviour of distro hopping can be observed in everywhere. In today&amp;rsquo;s world, people have lots of options to choose from, starting with &lt;a href="https://gogh-co.github.io/Gogh/">color-schemes&lt;/a>, &lt;a href="https://www.programmingfonts.org/">fonts&lt;/a>, and &lt;a href="https://www.gnome-look.org/browse?cat=135&amp;amp;ord=latest">themes&lt;/a> to deciding which movie or TV show to &lt;a href="https://fmhy.net/videopiracyguide">watch&lt;/a> on Netflix. Choices are good, but sometimes I feel these choices are the real distractions.&lt;/p>
+&lt;p>Self-control and having some restrictions on choices can be a solution. I have read good things about &lt;a href="https://go.dev/">Go&lt;/a> in a similar context, where the language lets users focus on solving problems rather than dealing with the complexities of the language itself.&lt;/p></description></item><item><title>Welcome..!</title><link>https://thedistrohopper.github.io/sarve.sh/posts/welcome/</link><pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate><guid>https://thedistrohopper.github.io/sarve.sh/posts/welcome/</guid><description>&lt;p>&lt;img src="https://sarvesh.prose.sh/welcome.png" alt="Welcome">&lt;/p>
+&lt;p>Hello there, I am Sarvesh, a computer science graduate working as a backend developer.&lt;/p>
+&lt;p>This blog will be used to share my learnings, perspectives and opinions.&lt;/p>
+&lt;p>I like to keep things simple and minimal. So that&amp;rsquo;s it for the first post.&lt;/p></description></item><item><title>Gallery</title><link>https://thedistrohopper.github.io/sarve.sh/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thedistrohopper.github.io/sarve.sh/gallery/</guid><description>
+&lt;a href="https://sarvesh.prose.sh/unknown5" class="thumbnail-link">
+&lt;img class="thumbnail" src="https://sarvesh.prose.sh/unknown5/300x">
+&lt;/a>
+&lt;a href="https://sarvesh.prose.sh/unknown4" class="thumbnail-link">
+&lt;img class="thumbnail" src="https://sarvesh.prose.sh/unknown4/300x">
+&lt;/a>
+&lt;a href="https://sarvesh.prose.sh/unknown" class="thumbnail-link">
+&lt;img class="thumbnail" src="https://sarvesh.prose.sh/unknown/300x">
+&lt;/a>
+&lt;a href="https://sarvesh.prose.sh/dwm_sc2" class="thumbnail-link">
+&lt;img class="thumbnail" src="https://sarvesh.prose.sh/dwm_sc2/300x">
+&lt;/a>
+&lt;a href="https://sarvesh.prose.sh/dwm_sc1" class="thumbnail-link">
+&lt;img class="thumbnail" src="https://sarvesh.prose.sh/dwm_sc1/300x">
+&lt;/a>
+&lt;a href="https://sarvesh.prose.sh/SC3" class="thumbnail-link">
+&lt;img class="thumbnail" src="https://sarvesh.prose.sh/SC3/300x">
+&lt;/a>
+&lt;a href="https://sarvesh.prose.sh/SC1" class="thumbnail-link">
+&lt;img class="thumbnail" src="https://sarvesh.prose.sh/SC1/300x">
+&lt;/a>
+&lt;a href="https://sarvesh.prose.sh/SC1%20%281%29" class="thumbnail-link">
+&lt;img class="thumbnail" src="https://sarvesh.prose.sh/SC1%20%281%29/300x">
+&lt;/a>
+&lt;a href="https://sarvesh.prose.sh/20220101_205549" class="thumbnail-link">
+&lt;img class="thumbnail" src="https://sarvesh.prose.sh/20220101_205549/300x">
+&lt;/a>
+&lt;a href="https://sarvesh.prose.sh/2021-02-19-11-00-34" class="thumbnail-link">
+&lt;img class="thumbnail" src="https://sarvesh.prose.sh/2021-02-19-11-00-34/300x">
+&lt;/a>
+&lt;a href="https://sarvesh.prose.sh/09-Mar-2022-0134" class="thumbnail-link">
+&lt;img class="thumbnail" src="https://sarvesh.prose.sh/09-Mar-2022-0134/300x">
+&lt;/a>
+&lt;article>
+&lt;a href="https://sarvesh.prose.sh/IMG_20230206_124522" class="thumbnail-link">
+&lt;img class="thumbnail" src="https://sarvesh.prose.sh/IMG_20230206_124522/300x">
+&lt;/a>
+&lt;a href="https://sarvesh.prose.sh/cs-books" class="thumbnail-link">
+&lt;img class="thumbnail" src="https://sarvesh.prose.sh/cs-books/300x">
+&lt;/a>
+&lt;/article></description></item><item><title>Miscellaneous links</title><link>https://thedistrohopper.github.io/sarve.sh/misc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://thedistrohopper.github.io/sarve.sh/misc/</guid><description>&lt;h3 id="blogs">Blogs&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://drewdevault.com/">drewdevault.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://karpathy.ai/">karpathy.ai&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.paulgraham.com/">paulgraham.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://massimo-nazaria.github.io/">massimo-nazaria.github.io&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="cool-links">Cool Links&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://pico.sh/">pico.sh&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.programmingfonts.org/">programmingfonts&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://devhints.io/">devhints.io&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gruvbox-wallpapers.pages.dev/">Gruvbox Wallpapers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://0x0.st/">0x0.st&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://overthewire.org/wargames/">overthewire&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://go.qwiklabs.com/arcade">Arcade - Google Cloud&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ihavenotv.com/">ihavenotv.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://shadowlibraries.github.io/">shadowlibraries&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.thc.org/segfault/">Disposable Root Servers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://fmhy.net/">freemediaheckyeah&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.readanybook.com/">readanybook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.mostrecommendedbooks.com/">mostrecommendedbooks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://designercize.com/">designercize&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://httpstat.us/">httpstat&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
