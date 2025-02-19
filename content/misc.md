@@ -2,26 +2,32 @@
 title = 'Miscellaneous links'
 +++
 
+### Feeds
+- [Github Trending](https://github.com/trending)
+- [Hacker News](https://news.ycombinator.com/)
+- [Indie Hackers](https://www.indiehackers.com/)
+- [Lobsters](https://lobste.rs/)
+- [Product Hunt](https://www.producthunt.com/)
+- [TUXURLS](https://tuxurls.com/)
+
 ### Blogs
+- [arpitbhayani.me](https://arpitbhayani.me/)
 - [drewdevault.com](https://drewdevault.com/)
 - [karpathy.ai](https://karpathy.ai/)
-- [paulgraham.com](https://www.paulgraham.com/)
-- [massimo-nazaria.github.io](https://massimo-nazaria.github.io/)
+- [medium.com/@hnasr](https://medium.com/@hnasr)
+- [nadh.in](https://nadh.in/)
+- [rushabh-mehta.medium.com/](https://rushabh-mehta.medium.com/)
 
 ### Cool Links
+- [0x0.st](https://0x0.st/)
+- [freemediaheckyeah](https://fmhy.net/)
+- [httpstat](https://httpstat.us/)
+- [ihavenotv.com](https://ihavenotv.com/)
+- [linuxjourney.com](https://linuxjourney.com/)
+- [mostrecommendedbooks](https://www.mostrecommendedbooks.com/)
+- [overthewire](https://overthewire.org/wargames/)
 - [pico.sh](https://pico.sh/)
 - [programmingfonts](https://www.programmingfonts.org/)
-- [devhints.io](https://devhints.io/)
-- [Gruvbox Wallpapers](https://gruvbox-wallpapers.pages.dev/)
-- [0x0.st](https://0x0.st/)
-- [overthewire](https://overthewire.org/wargames/)
-- [Arcade - Google Cloud](https://go.qwiklabs.com/arcade)
-- [ihavenotv.com](https://ihavenotv.com/)
-- [shadowlibraries](https://shadowlibraries.github.io/)
-- [Disposable Root Servers](https://www.thc.org/segfault/)
-- [freemediaheckyeah](https://fmhy.net/)
-- [readanybook](https://www.readanybook.com/)
-- [mostrecommendedbooks](https://www.mostrecommendedbooks.com/)
-- [designercize](https://designercize.com/)
-- [httpstat](https://httpstat.us/)
+- [roadmap.sh](https://roadmap.sh/)
+- [sli.dev](https://sli.dev/)
 
