@@ -1,0 +1,202 @@
+// https://www.rockyourcode.com/til-how-to-create-full-text-rss-feed-for-hugo/<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarvesh Patil on TheDistroHopper</title>
+    <link>https://sarve.sh/</link>
+    <description>Recent content in Sarvesh Patil on TheDistroHopper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>sarvesh@sarve.sh (Sarvesh Patil)</managingEditor>
+    <webMaster>sarvesh@sarve.sh (Sarvesh Patil)</webMaster>
+    <copyright>The content for this site is [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en)</copyright>
+    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sarve.sh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stoic Principles for Software Engineers</title>
+      <link>https://sarve.sh/posts/stoic-principles-for-software-engineers/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <author>sarvesh@sarve.sh (Sarvesh Patil)</author>
+      <guid>https://sarve.sh/posts/stoic-principles-for-software-engineers/</guid>
+      <description>&lt;p&gt;I am a Software Engineer (SWE) by profession. The work of a SWE involves designing software, writing code, and solving problems.
+Software Engineering or any Engineering for that matter, tests the mental strength of an Engineer.
+This mental strength is the true power. Making clear decisions based on the clarity of information available is the real skill of a SWE.
+I constantly look to improve my thought process and cut the unwanted noise from my life.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://sarvesh.prose.sh/stoicism-scene-1.jpg/300x&#34; alt=&#34;stoicism-scene-1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Lately, I have stumbled upon a philosophy that I think is a practical way of living life i.e. &lt;strong&gt;&lt;em&gt;Stoicism&lt;/em&gt;&lt;/strong&gt;.
+&lt;em&gt;Stoicism is an ancient Greek philosophy that taught a particular way of living.&lt;/em&gt; People who follow Stoicism are called &lt;strong&gt;&lt;em&gt;Stoics&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I feel, that becoming stoic can benefit SWEs greatly in their work.
+That is what this blog post is about - Stoic Principles for SWEs to follow and corresponding applications relating to work situations.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://sarvesh.prose.sh/stoicism-scene-2.jpg/300x&#34; alt=&#34;stoicism-scene-2&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;focus-on-what-you-can-control&#34;&gt;&lt;strong&gt;Focus on What You Can Control&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;You’re assigned a task outside your comfort zone. Instead of worrying about your lack of experience, focus on learning and asking questions to get the job done.&lt;/li&gt;
+&lt;li&gt;Your code isn’t working as expected. Concentrate on debugging systematically, one step at a time, rather than stressing over the entire problem.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;cultivate-professional-virtue&#34;&gt;&lt;strong&gt;Cultivate Professional Virtue&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Write tests and document your code to ensure it&amp;rsquo;s understandable and maintainable for others.&lt;/li&gt;
+&lt;li&gt;Be honest about what you don’t know and communicate promptly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;develop-resilience&#34;&gt;&lt;strong&gt;Develop Resilience&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;When your code fails in testing, approach it calmly. Use the opportunity to strengthen your understanding of the system.&lt;/li&gt;
+&lt;li&gt;You didn’t meet an expected timeline. Reflect on what you can do better next time and ask for advice on improving your workflow.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;practice-mindfulness&#34;&gt;&lt;strong&gt;Practice Mindfulness&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Start your day by setting clear, achievable goals and tackle them one by one.&lt;/li&gt;
+&lt;li&gt;During meetings, listen actively and fully engage with the discussion, ensuring that your contributions are thoughtful and constructive.&lt;/li&gt;
+&lt;li&gt;Reflect on your day at the end of each workday, noting what you achieved and where you can improve, to start the next day with clarity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;build-strong-relationships&#34;&gt;&lt;strong&gt;Build Strong Relationships&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Participate actively in team discussions, offering your ideas while being open to learning from others.&lt;/li&gt;
+&lt;li&gt;Take the time to mentor juniors, providing guidance and support that helps them grow into strong contributors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There is a lot to learn about Stoicism and how to apply it to your life.
+I encourage you to explore it further. You might discover The One Thing you’ve been looking for.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Distro Hopping, A Rabbit Hole</title>
+      <link>https://sarve.sh/posts/distro-hopping/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <author>sarvesh@sarve.sh (Sarvesh Patil)</author>
+      <guid>https://sarve.sh/posts/distro-hopping/</guid>
+      <description>&lt;p&gt;Distro hopping is a habit of computer users who chase the perfect setup of a distribution.
+&lt;em&gt;A distribution is an operating system built from the Linux kernel and GNU utilities.&lt;/em&gt;
+Even after finding the ultimate distribution, the user doesn&amp;rsquo;t stop.
+They keep distro hopping and repeat the same loop over and over again without realizing the waste of time.
+Such users are called &lt;strong&gt;&lt;em&gt;distro hoppers&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://sarvesh.prose.sh/distributions.png/350x&#34; alt=&#34;distributions&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I was a distro hopper until I started working professionally in 2022.&lt;/p&gt;
+&lt;p&gt;If I rank well-known distributions based on the number of times I&amp;rsquo;ve installed them, the list would be as follows:&lt;/p&gt;
+&lt;p&gt;Arch Linux &lt;img src=&#34;https://sarvesh.prose.sh/arch.png/20x&#34; alt=&#34;arch&#34;&gt; &amp;gt; Ubuntu &lt;img src=&#34;https://sarvesh.prose.sh/ubuntu.png/20x&#34; alt=&#34;ubuntu&#34;&gt; &amp;gt; Fedora &lt;img src=&#34;https://sarvesh.prose.sh/fedora.png/20x&#34; alt=&#34;fedora&#34;&gt; &amp;gt; Debian &lt;img src=&#34;https://sarvesh.prose.sh/debian.png/20x&#34; alt=&#34;debian&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A smol observation here. As we go from left to right in this list, distributions change from rolling release to fixed release cycle. I have come to a conclusion that changing distros will not solve the problem but fixing the distribution at hand.&lt;/p&gt;
+&lt;p&gt;The behaviour of distro hopping can be observed in everywhere. In today&amp;rsquo;s world, people have lots of options to choose from, starting with &lt;a href=&#34;https://gogh-co.github.io/Gogh/&#34;&gt;color-schemes&lt;/a&gt;, &lt;a href=&#34;https://www.programmingfonts.org/&#34;&gt;fonts&lt;/a&gt;, and &lt;a href=&#34;https://www.gnome-look.org/browse?cat=135&amp;amp;ord=latest&#34;&gt;themes&lt;/a&gt; to deciding which movie or TV show to &lt;a href=&#34;https://fmhy.net/videopiracyguide&#34;&gt;watch&lt;/a&gt; on Netflix. Choices are good, but sometimes I feel these choices are the real distractions.&lt;/p&gt;
+&lt;p&gt;Self-control and having some restrictions on choices can be a solution. I have read good things about &lt;a href=&#34;https://go.dev/&#34;&gt;Go&lt;/a&gt; in a similar context, where the language lets users focus on solving problems rather than dealing with the complexities of the language itself.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome..!</title>
+      <link>https://sarve.sh/posts/welcome/</link>
+      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+      <author>sarvesh@sarve.sh (Sarvesh Patil)</author>
+      <guid>https://sarve.sh/posts/welcome/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://sarvesh.prose.sh/welcome.png&#34; alt=&#34;Welcome&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Hello there, I am Sarvesh, a computer science graduate working as a backend developer.&lt;/p&gt;
+&lt;p&gt;This blog will be used to share my learnings, perspectives and opinions.&lt;/p&gt;
+&lt;p&gt;I like to keep things simple and minimal. So that&amp;rsquo;s it for the first post.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>https://sarve.sh/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sarvesh@sarve.sh (Sarvesh Patil)</author>
+      <guid>https://sarve.sh/gallery/</guid>
+      <description>
+&lt;a href=&#34;https://sarvesh.prose.sh/unknown5.png&#34; class=&#34;thumbnail-link&#34;&gt;
+&lt;img class=&#34;thumbnail&#34; src=&#34;https://sarvesh.prose.sh/unknown5.png/100x&#34;&gt;
+&lt;/a&gt;
+
+&lt;a href=&#34;https://sarvesh.prose.sh/unknown4.png&#34; class=&#34;thumbnail-link&#34;&gt;
+&lt;img class=&#34;thumbnail&#34; src=&#34;https://sarvesh.prose.sh/unknown4.png/100x&#34;&gt;
+&lt;/a&gt;
+
+&lt;a href=&#34;https://sarvesh.prose.sh/unknown.png&#34; class=&#34;thumbnail-link&#34;&gt;
+&lt;img class=&#34;thumbnail&#34; src=&#34;https://sarvesh.prose.sh/unknown.png/100x&#34;&gt;
+&lt;/a&gt;
+
+&lt;a href=&#34;https://sarvesh.prose.sh/dwm_sc2.png&#34; class=&#34;thumbnail-link&#34;&gt;
+&lt;img class=&#34;thumbnail&#34; src=&#34;https://sarvesh.prose.sh/dwm_sc2.png/100x&#34;&gt;
+&lt;/a&gt;
+
+&lt;a href=&#34;https://sarvesh.prose.sh/dwm_sc1.png&#34; class=&#34;thumbnail-link&#34;&gt;
+&lt;img class=&#34;thumbnail&#34; src=&#34;https://sarvesh.prose.sh/dwm_sc1.png/100x&#34;&gt;
+&lt;/a&gt;
+
+&lt;a href=&#34;https://sarvesh.prose.sh/SC3.jpg&#34; class=&#34;thumbnail-link&#34;&gt;
+&lt;img class=&#34;thumbnail&#34; src=&#34;https://sarvesh.prose.sh/SC3.jpg/100x&#34;&gt;
+&lt;/a&gt;
+
+&lt;a href=&#34;https://sarvesh.prose.sh/SC1.png&#34; class=&#34;thumbnail-link&#34;&gt;
+&lt;img class=&#34;thumbnail&#34; src=&#34;https://sarvesh.prose.sh/SC1.png/100x&#34;&gt;
+&lt;/a&gt;
+
+&lt;a href=&#34;https://sarvesh.prose.sh/SC1%20%281%29.png&#34; class=&#34;thumbnail-link&#34;&gt;
+&lt;img class=&#34;thumbnail&#34; src=&#34;https://sarvesh.prose.sh/SC1%20%281%29.png/100x&#34;&gt;
+&lt;/a&gt;
+
+
+&lt;a href=&#34;https://sarvesh.prose.sh/20220101_205549.jpg&#34; class=&#34;thumbnail-link&#34;&gt;
+&lt;img class=&#34;thumbnail&#34; src=&#34;https://sarvesh.prose.sh/20220101_205549.jpg/100x&#34;&gt;
+&lt;/a&gt;
+
+&lt;a href=&#34;https://sarvesh.prose.sh/2021-02-19-11-00-34.png&#34; class=&#34;thumbnail-link&#34;&gt;
+&lt;img class=&#34;thumbnail&#34; src=&#34;https://sarvesh.prose.sh/2021-02-19-11-00-34.png/100x&#34;&gt;
+&lt;/a&gt;
+
+&lt;a href=&#34;https://sarvesh.prose.sh/09-Mar-2022-0134.png&#34; class=&#34;thumbnail-link&#34;&gt;
+&lt;img class=&#34;thumbnail&#34; src=&#34;https://sarvesh.prose.sh/09-Mar-2022-0134.png/100x&#34;&gt;
+&lt;/a&gt;
+
+&lt;article&gt;
+&lt;a href=&#34;https://sarvesh.prose.sh/IMG_20230206_124522.jpg&#34; class=&#34;thumbnail-link&#34;&gt;
+&lt;img class=&#34;thumbnail&#34; src=&#34;https://sarvesh.prose.sh/IMG_20230206_124522.jpg/100x&#34;&gt;
+&lt;/a&gt;
+&lt;a href=&#34;https://sarvesh.prose.sh/cs-books.png&#34; class=&#34;thumbnail-link&#34;&gt;
+&lt;img class=&#34;thumbnail&#34; src=&#34;https://sarvesh.prose.sh/cs-books.png/100x&#34;&gt;
+&lt;/a&gt;
+&lt;/article&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous links</title>
+      <link>https://sarve.sh/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sarvesh@sarve.sh (Sarvesh Patil)</author>
+      <guid>https://sarve.sh/misc/</guid>
+      <description>&lt;h3 id=&#34;feeds&#34;&gt;Feeds&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/trending&#34;&gt;Github Trending&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.ycombinator.com/&#34;&gt;Hacker News&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.indiehackers.com/&#34;&gt;Indie Hackers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lobste.rs/&#34;&gt;Lobsters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.producthunt.com/&#34;&gt;Product Hunt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tuxurls.com/&#34;&gt;TUXURLS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;blogs&#34;&gt;Blogs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arpitbhayani.me/&#34;&gt;arpitbhayani.me&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drewdevault.com/&#34;&gt;drewdevault.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://karpathy.ai/&#34;&gt;karpathy.ai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@hnasr&#34;&gt;medium.com/@hnasr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nadh.in/&#34;&gt;nadh.in&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rushabh-mehta.medium.com/&#34;&gt;rushabh-mehta.medium.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;cool-links&#34;&gt;Cool Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://0x0.st/&#34;&gt;0x0.st&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fmhy.net/&#34;&gt;freemediaheckyeah&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://httpstat.us/&#34;&gt;httpstat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ihavenotv.com/&#34;&gt;ihavenotv.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://linuxjourney.com/&#34;&gt;linuxjourney.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mostrecommendedbooks.com/&#34;&gt;mostrecommendedbooks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://overthewire.org/wargames/&#34;&gt;overthewire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pico.sh/&#34;&gt;pico.sh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.programmingfonts.org/&#34;&gt;programmingfonts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://roadmap.sh/&#34;&gt;roadmap.sh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sli.dev/&#34;&gt;sli.dev&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

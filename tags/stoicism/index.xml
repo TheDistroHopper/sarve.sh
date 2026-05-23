@@ -1,0 +1,63 @@
+// https://www.rockyourcode.com/til-how-to-create-full-text-rss-feed-for-hugo/<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stoicism on TheDistroHopper</title>
+    <link>https://sarve.sh/tags/stoicism/</link>
+    <description>Recent content in Stoicism on TheDistroHopper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>sarvesh@sarve.sh (Sarvesh Patil)</managingEditor>
+    <webMaster>sarvesh@sarve.sh (Sarvesh Patil)</webMaster>
+    <copyright>The content for this site is [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en)</copyright>
+    <lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sarve.sh/tags/stoicism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stoic Principles for Software Engineers</title>
+      <link>https://sarve.sh/posts/stoic-principles-for-software-engineers/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <author>sarvesh@sarve.sh (Sarvesh Patil)</author>
+      <guid>https://sarve.sh/posts/stoic-principles-for-software-engineers/</guid>
+      <description>&lt;p&gt;I am a Software Engineer (SWE) by profession. The work of a SWE involves designing software, writing code, and solving problems.
+Software Engineering or any Engineering for that matter, tests the mental strength of an Engineer.
+This mental strength is the true power. Making clear decisions based on the clarity of information available is the real skill of a SWE.
+I constantly look to improve my thought process and cut the unwanted noise from my life.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://sarvesh.prose.sh/stoicism-scene-1.jpg/300x&#34; alt=&#34;stoicism-scene-1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Lately, I have stumbled upon a philosophy that I think is a practical way of living life i.e. &lt;strong&gt;&lt;em&gt;Stoicism&lt;/em&gt;&lt;/strong&gt;.
+&lt;em&gt;Stoicism is an ancient Greek philosophy that taught a particular way of living.&lt;/em&gt; People who follow Stoicism are called &lt;strong&gt;&lt;em&gt;Stoics&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I feel, that becoming stoic can benefit SWEs greatly in their work.
+That is what this blog post is about - Stoic Principles for SWEs to follow and corresponding applications relating to work situations.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://sarvesh.prose.sh/stoicism-scene-2.jpg/300x&#34; alt=&#34;stoicism-scene-2&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;focus-on-what-you-can-control&#34;&gt;&lt;strong&gt;Focus on What You Can Control&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;You’re assigned a task outside your comfort zone. Instead of worrying about your lack of experience, focus on learning and asking questions to get the job done.&lt;/li&gt;
+&lt;li&gt;Your code isn’t working as expected. Concentrate on debugging systematically, one step at a time, rather than stressing over the entire problem.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;cultivate-professional-virtue&#34;&gt;&lt;strong&gt;Cultivate Professional Virtue&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Write tests and document your code to ensure it&amp;rsquo;s understandable and maintainable for others.&lt;/li&gt;
+&lt;li&gt;Be honest about what you don’t know and communicate promptly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;develop-resilience&#34;&gt;&lt;strong&gt;Develop Resilience&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;When your code fails in testing, approach it calmly. Use the opportunity to strengthen your understanding of the system.&lt;/li&gt;
+&lt;li&gt;You didn’t meet an expected timeline. Reflect on what you can do better next time and ask for advice on improving your workflow.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;practice-mindfulness&#34;&gt;&lt;strong&gt;Practice Mindfulness&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Start your day by setting clear, achievable goals and tackle them one by one.&lt;/li&gt;
+&lt;li&gt;During meetings, listen actively and fully engage with the discussion, ensuring that your contributions are thoughtful and constructive.&lt;/li&gt;
+&lt;li&gt;Reflect on your day at the end of each workday, noting what you achieved and where you can improve, to start the next day with clarity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;build-strong-relationships&#34;&gt;&lt;strong&gt;Build Strong Relationships&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Participate actively in team discussions, offering your ideas while being open to learning from others.&lt;/li&gt;
+&lt;li&gt;Take the time to mentor juniors, providing guidance and support that helps them grow into strong contributors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There is a lot to learn about Stoicism and how to apply it to your life.
+I encourage you to explore it further. You might discover The One Thing you’ve been looking for.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

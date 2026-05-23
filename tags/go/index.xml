@@ -1,0 +1,35 @@
+// https://www.rockyourcode.com/til-how-to-create-full-text-rss-feed-for-hugo/<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on TheDistroHopper</title>
+    <link>https://sarve.sh/tags/go/</link>
+    <description>Recent content in Go on TheDistroHopper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>sarvesh@sarve.sh (Sarvesh Patil)</managingEditor>
+    <webMaster>sarvesh@sarve.sh (Sarvesh Patil)</webMaster>
+    <copyright>The content for this site is [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en)</copyright>
+    <lastBuildDate>Wed, 07 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://sarve.sh/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distro Hopping, A Rabbit Hole</title>
+      <link>https://sarve.sh/posts/distro-hopping/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <author>sarvesh@sarve.sh (Sarvesh Patil)</author>
+      <guid>https://sarve.sh/posts/distro-hopping/</guid>
+      <description>&lt;p&gt;Distro hopping is a habit of computer users who chase the perfect setup of a distribution.
+&lt;em&gt;A distribution is an operating system built from the Linux kernel and GNU utilities.&lt;/em&gt;
+Even after finding the ultimate distribution, the user doesn&amp;rsquo;t stop.
+They keep distro hopping and repeat the same loop over and over again without realizing the waste of time.
+Such users are called &lt;strong&gt;&lt;em&gt;distro hoppers&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://sarvesh.prose.sh/distributions.png/350x&#34; alt=&#34;distributions&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I was a distro hopper until I started working professionally in 2022.&lt;/p&gt;
+&lt;p&gt;If I rank well-known distributions based on the number of times I&amp;rsquo;ve installed them, the list would be as follows:&lt;/p&gt;
+&lt;p&gt;Arch Linux &lt;img src=&#34;https://sarvesh.prose.sh/arch.png/20x&#34; alt=&#34;arch&#34;&gt; &amp;gt; Ubuntu &lt;img src=&#34;https://sarvesh.prose.sh/ubuntu.png/20x&#34; alt=&#34;ubuntu&#34;&gt; &amp;gt; Fedora &lt;img src=&#34;https://sarvesh.prose.sh/fedora.png/20x&#34; alt=&#34;fedora&#34;&gt; &amp;gt; Debian &lt;img src=&#34;https://sarvesh.prose.sh/debian.png/20x&#34; alt=&#34;debian&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A smol observation here. As we go from left to right in this list, distributions change from rolling release to fixed release cycle. I have come to a conclusion that changing distros will not solve the problem but fixing the distribution at hand.&lt;/p&gt;
+&lt;p&gt;The behaviour of distro hopping can be observed in everywhere. In today&amp;rsquo;s world, people have lots of options to choose from, starting with &lt;a href=&#34;https://gogh-co.github.io/Gogh/&#34;&gt;color-schemes&lt;/a&gt;, &lt;a href=&#34;https://www.programmingfonts.org/&#34;&gt;fonts&lt;/a&gt;, and &lt;a href=&#34;https://www.gnome-look.org/browse?cat=135&amp;amp;ord=latest&#34;&gt;themes&lt;/a&gt; to deciding which movie or TV show to &lt;a href=&#34;https://fmhy.net/videopiracyguide&#34;&gt;watch&lt;/a&gt; on Netflix. Choices are good, but sometimes I feel these choices are the real distractions.&lt;/p&gt;
+&lt;p&gt;Self-control and having some restrictions on choices can be a solution. I have read good things about &lt;a href=&#34;https://go.dev/&#34;&gt;Go&lt;/a&gt; in a similar context, where the language lets users focus on solving problems rather than dealing with the complexities of the language itself.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
