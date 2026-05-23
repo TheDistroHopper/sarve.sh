@@ -2,8 +2,9 @@ baseURL = 'https://sarve.sh/'
 languageCode = 'en-us'
 title = 'TheDistroHopper'
 theme = 'risotto'
-author = 'Sarvesh Patil'
 copyright = 'The content for this site is [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en)'
+
+enableRobotsTXT = true
 
 [params.theme]
 palette = 'pop-dark'
@@ -14,6 +15,10 @@ title = 'Sarvesh Patil'
 description = 'sarvesh@sarve.sh'
 # logo = 'TDH'
 # logo_image = 'https://avatars.githubusercontent.com/u/58876962'
+
+[params.author]
+name = 'Sarvesh Patil'
+email = 'sarvesh@sarve.sh'
 
 [[params.socialLinks]]
 title = "Discord"
@@ -39,8 +44,6 @@ icon = "fab fa-twitter"
 title = "LinkedIn"
 url = "https://www.linkedin.com/in/thedistrohopper/"
 icon = "fab fa-linkedin"
-
-enableRobotsTXT = true
 
 [menu]
 
@@ -73,5 +76,3 @@ enableRobotsTXT = true
     name = "misc"
     url = "/misc"
     weight = 60
-
-
