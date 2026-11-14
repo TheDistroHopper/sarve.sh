@@ -10,7 +10,7 @@ Software Engineering or any Engineering for that matter, tests the mental streng
 This mental strength is the true power. Making clear decisions based on the clarity of information available is the real skill of a SWE.
 I constantly look to improve my thought process and cut the unwanted noise from my life.
 
-![stoicism-scene-1](https://sarvesh.prose.sh/stoicism-scene-1.jpg/300x)
+![stoicism-scene-1](/images/posts/stoicism-scene-1.jpg)
 
 Lately, I have stumbled upon a philosophy that I think is a practical way of living life i.e. __*Stoicism*__.
 _Stoicism is an ancient Greek philosophy that taught a particular way of living._ People who follow Stoicism are called __*Stoics*__.
@@ -18,7 +18,7 @@ _Stoicism is an ancient Greek philosophy that taught a particular way of living.
 I feel, that becoming stoic can benefit SWEs greatly in their work.
 That is what this blog post is about - Stoic Principles for SWEs to follow and corresponding applications relating to work situations.
 
-![stoicism-scene-2](https://sarvesh.prose.sh/stoicism-scene-2.jpg/300x)
+![stoicism-scene-2](/images/posts/stoicism-scene-2.jpg)
 
 #### **Focus on What You Can Control**
 - You’re assigned a task outside your comfort zone. Instead of worrying about your lack of experience, focus on learning and asking questions to get the job done.

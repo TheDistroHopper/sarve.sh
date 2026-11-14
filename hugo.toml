@@ -14,7 +14,7 @@ palette = 'pop-dark'
 title = 'Sarvesh Patil'
 description = 'sarvesh@sarve.sh'
 # logo = 'TDH'
-# logo_image = 'https://avatars.githubusercontent.com/u/58876962'
+# logo_image = '/images/avatar.jpg'
 
 [params.author]
 name = 'Sarvesh Patil'

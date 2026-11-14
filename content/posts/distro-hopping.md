@@ -11,13 +11,13 @@ Even after finding the ultimate distribution, the user doesn't stop.
 They keep distro hopping and repeat the same loop over and over again without realizing the waste of time. 
 Such users are called __*distro hoppers*__.
 
-![distributions](https://sarvesh.prose.sh/distributions.png/350x)
+![distributions](/images/posts/distributions.png)
 
 I was a distro hopper until I started working professionally in 2022.
 
 If I rank well-known distributions based on the number of times I've installed them, the list would be as follows:
 
-Arch Linux ![arch](https://sarvesh.prose.sh/arch.png/20x) > Ubuntu ![ubuntu](https://sarvesh.prose.sh/ubuntu.png/20x) > Fedora ![fedora](https://sarvesh.prose.sh/fedora.png/20x) > Debian ![debian](https://sarvesh.prose.sh/debian.png/20x)
+Arch Linux ![arch](/images/posts/arch.png) > Ubuntu ![ubuntu](/images/posts/ubuntu.png) > Fedora ![fedora](/images/posts/fedora.png) > Debian ![debian](/images/posts/debian.png)
 
 A smol observation here. As we go from left to right in this list, distributions change from rolling release to fixed release cycle. I have come to a conclusion that changing distros will not solve the problem but fixing the distribution at hand.
 
