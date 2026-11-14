@@ -5,7 +5,7 @@ date = "2024-09-07"
 +++
 
 <!--
-![pfp](https://avatars.githubusercontent.com/u/58876962)
+![pfp](/images/avatar.jpg)
 
 As much as I try to live an aesthetic life like [catppuccin](https://github.com/catppuccin/), 
 it becomes complex like [gruvbox](https://github.com/morhetz/gruvbox/). 
