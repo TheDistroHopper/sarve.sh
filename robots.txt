@@ -1,0 +1,32 @@
+User-agent: *
+
+Disallow: /
+
+Disallow: /tags/life/
+
+Disallow: /posts/
+
+Disallow: /tags/software-engineering/
+
+Disallow: /posts/stoic-principles-for-software-engineers/
+
+Disallow: /tags/stoicism/
+
+Disallow: /tags/
+
+Disallow: /posts/distro-hopping/
+
+Disallow: /tags/go/
+
+Disallow: /tags/linux/
+
+Disallow: /tags/announcement/
+
+Disallow: /posts/welcome/
+
+Disallow: /categories/
+
+Disallow: /gallery/
+
+Disallow: /misc/
+
